@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Nova</title>
-    <link>https://mooncell07.tech/categories/</link>
+    <link>https://mooncell07.github.io/Nova/categories/</link>
     <description>Recent content in Categories on Nova</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://mooncell07.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mooncell07.github.io/Nova/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
