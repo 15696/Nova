@@ -1,4 +1,4 @@
-baseURL = 'www.mooncell07.tech'
+baseURL = 'https://www.mooncell07.tech'
 languageCode = 'en-us'
 title = 'Nova'
 enableRobotsTXT = true
