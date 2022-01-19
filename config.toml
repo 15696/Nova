@@ -1,4 +1,4 @@
-baseURL = 'https://mooncell07.github.io/Nova/'
+baseURL = 'mooncell07.tech'
 languageCode = 'en-us'
 title = 'Nova'
 enableRobotsTXT = true
