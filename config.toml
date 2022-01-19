@@ -1,0 +1,6 @@
+baseURL = 'https://mooncell07.tech/'
+languageCode = 'en-us'
+title = 'Nova'
+enableRobotsTXT = true
+theme = "hugo-theme-serial-programmer"
+assetDir="static"
