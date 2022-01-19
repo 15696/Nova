@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mooncell07.github.io/Nova/</loc>
+    <loc>https://mooncell07.tech/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mooncell07.github.io/Nova/posts/</loc>
+    <loc>https://mooncell07.tech/posts/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mooncell07.github.io/Nova/posts/test_post/</loc>
+    <loc>https://mooncell07.tech/posts/test_post/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mooncell07.github.io/Nova/categories/</loc>
+    <loc>https://mooncell07.tech/categories/</loc>
   </url><url>
-    <loc>https://mooncell07.github.io/Nova/tags/</loc>
+    <loc>https://mooncell07.tech/tags/</loc>
   </url>
 </urlset>
