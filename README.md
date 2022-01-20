@@ -1,2 +1,1 @@
-# Nova
-Just a personal site
+Bored
