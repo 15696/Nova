@@ -2,7 +2,7 @@
 title: "About Me"
 date: 2022-01-20
 draft: true
-tags: ["aboutme"]
+tags: ["nova"]
 ---
 
 Hi i am Nova, a 12th grade student from India. I love to code, watch anime and play games! I am programming since about 4 years and i mainly do my projects in Python. I am learning Rust at the
