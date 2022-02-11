@@ -5,7 +5,7 @@ draft: true
 tags: ["nova"]
 ---
 
-Here are some of the projects -
+Here are some of my projects -
 
 #### Trace-Fractal
 

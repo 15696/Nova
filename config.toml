@@ -1,6 +1,6 @@
-baseURL ='/'
-languageCode = 'en-us'
-title = 'Nova'
+baseURL = "/"
+languageCode = "en-us"
+title = "Nova"
 enableRobotsTXT = true
 theme = "hugo-theme-serial-programmer"
 assetDir="static"
