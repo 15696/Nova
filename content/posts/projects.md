@@ -12,8 +12,6 @@ Here are some of my projects -
 [Trace-Fractal](https://github.com/mooncell07/Trace-Fractal) is 
 an emulator based on the [Chip-8](https://en.wikipedia.org/wiki/CHIP-8) virtual machine.
 
-Currently my implementation on GitHub is broken and i am working on it. *(for 7th or something time)*
-
 ----
 
 #### Azaka
