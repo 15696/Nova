@@ -26,3 +26,6 @@ an emulator based on the [Chip-8](https://en.wikipedia.org/wiki/CHIP-8) virtual 
 [Marsworks](https://github.com/mooncell07/Marsworks) is an API Wrapper for Mars Rover Photos API.
 
 ----
+
+Currently working on a [disassembler for c8 (d4c)](https://github.com/mooncell07/D4C). 
+Not a jojo reference hehe
