@@ -16,14 +16,14 @@ an emulator based on the [Chip-8](https://en.wikipedia.org/wiki/CHIP-8) virtual 
 
 #### Azaka
 
-[Azaka](https://github.com/mooncell07/Azaka) is an Async. API Wrapper and Dump Parser for 
+[Azaka](https://github.com/mooncell07/Azaka) is an asynchronous API wrapper and database dump parser for 
 [VNDB](https://vndb.org/).
 
 ----
 
 #### Marsworks
 
-[Marsworks](https://github.com/mooncell07/Marsworks) is an API Wrapper for Mars Rover Photos API.
+[Marsworks](https://github.com/mooncell07/Marsworks) is an API wrapper for Mars Rover Photos API.
 
 ----
 
